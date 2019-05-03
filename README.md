@@ -11,10 +11,10 @@ Evenly spaced grid of point masses and then connected them by strings. Spring ha
 <img src="website/part1/all_constraints.jpeg" width="400"/>  <img src="website/part1/2.jpeg"  width="400"/>
 
 
-## Part 2: Simulation via numerical integration
-
 
 <br/>
+
+## Part 2: Simulation via numerical integration
 
 ### Extension
 
