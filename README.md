@@ -7,9 +7,12 @@ A real-time cloth simulator using point masses and springs system.
 
 Evenly spaced grid of point masses and then connected them by strings. Spring has three types, STRUCTURAL, SHEARING, BENDING. 
 
+
 <img src="website/part1/all_constraints.jpeg" width="400"/>  <img src="website/part1/2.jpeg"  width="400"/>
 
-Part 2: Simulation via numerical integration
+
+## Part 2: Simulation via numerical integration
+
 
 <br/>
 
